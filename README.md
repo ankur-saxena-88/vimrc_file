@@ -2,6 +2,8 @@
 
 # The Minimal Vimrc
 
+by <a href="https://github.com/indiarocks88"> ANKUR SAXENA </a> on March 27, 2021
+
 <p style="text-align: justify;"> Earlier I used to use text editors like Atom and Microsoft Visual Studio Code to write the code for my programming projects. But it has been my favorite text editor ever since I started using Vim editor to write code for my programming projects. And now it is installed on my machine as my main text editor.
 </p>
 
