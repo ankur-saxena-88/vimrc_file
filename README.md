@@ -15,7 +15,7 @@ To use my .vimrc file on your system, follow the steps given below:
 1. Download the code given above on your system.
 2. After downloading, extract it and copy the 'vimrc' file to your home directory according to your operating system.
 
-<b><u>NOTE:</u></b> If you are a Windows user, rename it as '_vimrc' and if you are a Linux and Max user, rename it as '.vimrc'.
+<b><u>NOTE:</u></b> If you are a Windows user, rename it as '_vimrc' and if you are a Linux / MacOS user, rename it as '.vimrc'.
 
 # How To Install Plugin In Vim
 
