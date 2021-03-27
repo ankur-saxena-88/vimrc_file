@@ -41,3 +41,13 @@ Or <br>
 <p style="text-align: justify;"> Install the theme manually, by placing colors/onedark.vim in your ~/.vim/colors/ directory and autoload/onedark.vim in your ~/.vim/autoload/ directory.
     </p>
     
+# Sources
+
+<b> vim-plug </b> https://github.com/junegunn/vim-plug <br />
+<b> goyo.vim </b> https://github.com/junegunn/goyo.vim <br />
+<b> lightline.vim </b> https://github.com/itchyny/lightline.vim <br />
+<b> nerdtree </b> https://github.com/preservim/nerdtree <br />
+<b> seoul256.vim </b> https://github.com/junegunn/seoul256.vim <br />
+<b> vim-github-dashboard </b> https://github.com/junegunn/vim-github-dashboard <br />
+<b> onedark theme </b> https://github.com/joshdick/onedark.vim <br />
+<b> IBM-Plex-Mono font </b> https://github.com/IBM/plex
