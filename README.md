@@ -13,9 +13,9 @@
 To use my .vimrc file on your system, follow the steps given below:
 
 1. Download the code given above on your system.
-2. After downloading, extract it and copy the vimrc file to your home directory according to your operating system.
+2. After downloading, extract it and copy the 'vimrc' file to your home directory according to your operating system.
 
-If you are a Windows user, copy the _vimrc file in your home directory and if you are a Linux / MacOS user, copy the .vimrc file in your home directory and enjoy using the Vim text editor.
+<b><u>NOTE:</u></b> If you are a Windows user, rename it as '_vimrc' and if you are a Linux and Max user, rename it as '.vimrc'.
 
 # How To Install Plugin In Vim
 
@@ -33,7 +33,7 @@ Or <br>
 
 # How to Install Plugins Manually
 
-<p style="text-align: justify;"> If you want to install the plugins manually in the Vim text editor, copy and paste the .vim directory from the extracted code directory into your home directory and enjoy the plugins.
+<p style="text-align: justify;"> If you want to install the plugins manually in the Vim text editor, copy and paste the 'vim' directory from the extracted code directory into your home directory and rename it with the name '.vim'.
     </p>
     
 # How To Install Onedark Color Scheme
